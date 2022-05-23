@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/0T98arG.png" width="100"/> 
+<img src="https://i.imgur.com/ItAU54z.png" width="100"/> 
 
 # Demo Pointcloud Episodes Annotated  
 
@@ -32,11 +32,11 @@ Pointcloud episodes for this project were acquired from [KITTI360](http://www.cv
     <tr style="width: 100%">
       <td>
         <b>KITTI360</b>
-        <img src="https://i.imgur.com/ecapekB.png" style="width:150%;"/>
+        <img src="https://i.imgur.com/RqpT41t.png" style="width:150%;"/>
       </td>
       <td>
         <b>LYFT</b>
-        <img src="https://i.imgur.com/9VQNiLP.png" style="width:150%;"/>
+        <img src="https://i.imgur.com/NvZsUQV.png" style="width:150%;"/>
       </td>
     </tr>
   </table>
@@ -44,7 +44,7 @@ Pointcloud episodes for this project were acquired from [KITTI360](http://www.cv
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo-volumes-annotated.zip) (115,3 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906753) (409,3 MB).
 
 ## Statistics
 
