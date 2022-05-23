@@ -1,0 +1,47 @@
+{
+    "pathOriginal": "/h5un6l2bnaz1vj8a9qgms4-public/images/original/G/s/nW/rYHEeX3AfQVM1CWIcVNhnx4QGlLey5u6MywDWzm65YoZZjqrJfDTnOYDMGiMXT60lWH3GJfD1tYAjQKE8n1MVriTpcerUAjNiXyDRjVSIdtgTcg5Fa4X5KL7IzUQ.jpg",
+    "id": 214171,
+    "entityId": 2987480,
+    "createdAt": "2022-05-20T15:24:43.652Z",
+    "updatedAt": "2022-05-20T15:24:43.652Z",
+    "meta": {
+        "deviceId": "CAM_FRONT_RIGHT",
+        "timestamp": "2019-01-11T03:24:09.601Z",
+        "sensorsData": {
+            "extrinsicMatrix": [
+                0.8386693341256628,
+                0.5445860996349607,
+                -0.007728394503191906,
+                -0.37887881068667184,
+                -0.004623571314474077,
+                -0.007070454501824924,
+                -0.9999643149940083,
+                -0.15289234147243036,
+                -0.5446213093384396,
+                0.8386751389885819,
+                -0.00341184070047777,
+                -0.15085140385377105
+            ],
+            "intrinsicMatrix": [
+                883.51339724,
+                0,
+                624.436099485,
+                0,
+                883.51339724,
+                522.256058375,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    "fileMeta": {
+        "mime": "image/jpeg",
+        "size": 110874,
+        "width": 1224,
+        "height": 1024
+    },
+    "preview": "/previews/q/ext:jpeg/resize:fill:50:0:0/q:50/plain/h5un6l2bnaz1vj8a9qgms4-public/images/original/G/s/nW/rYHEeX3AfQVM1CWIcVNhnx4QGlLey5u6MywDWzm65YoZZjqrJfDTnOYDMGiMXT60lWH3GJfD1tYAjQKE8n1MVriTpcerUAjNiXyDRjVSIdtgTcg5Fa4X5KL7IzUQ.jpg",
+    "fullStorageUrl": "https://supervisely-dev.deepsystems.io/h5un6l2bnaz1vj8a9qgms4-public/images/original/G/s/nW/rYHEeX3AfQVM1CWIcVNhnx4QGlLey5u6MywDWzm65YoZZjqrJfDTnOYDMGiMXT60lWH3GJfD1tYAjQKE8n1MVriTpcerUAjNiXyDRjVSIdtgTcg5Fa4X5KL7IzUQ.jpg",
+    "name": "host-a005_cam1_1231201449565909006.jpeg"
+}

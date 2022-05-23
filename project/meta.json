@@ -1,0 +1,155 @@
+{
+    "classes": [
+        {
+            "title": "animal",
+            "shape": "cuboid_3d",
+            "color": "#7C8A0F",
+            "geometry_config": {},
+            "id": 155055,
+            "hotkey": ""
+        },
+        {
+            "title": "bicycle",
+            "shape": "cuboid_3d",
+            "color": "#730F8A",
+            "geometry_config": {},
+            "id": 155056,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "cuboid_3d",
+            "color": "#0F8A43",
+            "geometry_config": {},
+            "id": 155057,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "cuboid_3d",
+            "color": "#8A130F",
+            "geometry_config": {},
+            "id": 155058,
+            "hotkey": ""
+        },
+        {
+            "title": "Car",
+            "shape": "cuboid_3d",
+            "color": "#FF1834",
+            "geometry_config": {},
+            "id": 155065,
+            "hotkey": ""
+        },
+        {
+            "title": "Cyclist",
+            "shape": "cuboid_3d",
+            "color": "#E13D40",
+            "geometry_config": {},
+            "id": 155066,
+            "hotkey": ""
+        },
+        {
+            "title": "emergency_vehicle",
+            "shape": "cuboid_3d",
+            "color": "#2C0F8A",
+            "geometry_config": {},
+            "id": 155059,
+            "hotkey": ""
+        },
+        {
+            "title": "motorcycle",
+            "shape": "cuboid_3d",
+            "color": "#0F8A29",
+            "geometry_config": {},
+            "id": 155060,
+            "hotkey": ""
+        },
+        {
+            "title": "other_vehicle",
+            "shape": "cuboid_3d",
+            "color": "#6D0F8A",
+            "geometry_config": {},
+            "id": 155061,
+            "hotkey": ""
+        },
+        {
+            "title": "pedestrian",
+            "shape": "cuboid_3d",
+            "color": "#0F8A62",
+            "geometry_config": {},
+            "id": 155062,
+            "hotkey": ""
+        },
+        {
+            "title": "pole",
+            "shape": "point_cloud",
+            "color": "#379FB9",
+            "geometry_config": {},
+            "id": 155063,
+            "hotkey": ""
+        },
+        {
+            "title": "Pole",
+            "shape": "any",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 155067,
+            "hotkey": ""
+        },
+        {
+            "title": "Tram",
+            "shape": "cuboid_3d",
+            "color": "#EA7BA6",
+            "geometry_config": {},
+            "id": 155068,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "cuboid_3d",
+            "color": "#2B0F8A",
+            "geometry_config": {},
+            "id": 155064,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "action",
+            "value_type": "oneof_string",
+            "color": "#1E1EF1",
+            "values": [
+                "moving",
+                "waiting"
+            ],
+            "id": 348134,
+            "hotkey": "A",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "is_moving",
+            "value_type": "none",
+            "color": "#67900E",
+            "id": 348135,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "vehicle_type",
+            "value_type": "oneof_string",
+            "color": "#66D115",
+            "values": [
+                "car",
+                "bus",
+                "bike"
+            ],
+            "id": 348136,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "point_cloud_episodes"
+}
