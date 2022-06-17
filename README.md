@@ -44,7 +44,7 @@ Pointcloud episodes for this project were acquired from [KITTI360](http://www.cv
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-episodes-annotated/releases/download/v1.0.3/demo_pointcloud_episodes_annotated.zip) (409,3 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-episodes-annotated/releases/download/v1.0.4/demo_pointcloud_episodes_annotated.zip) (409,3 MB).
 
 ## Statistics
 
